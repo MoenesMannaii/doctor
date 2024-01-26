@@ -1,6 +1,6 @@
-# GymZilla
+# DoctorCare
 
-" I created this Website template for myself, but instead of burying it, I've shared it on GitHub as an open-source resource. Customize it to create your own unique Template. "
+" Inspired from [ bit.ly/doctorcare-design-inspiration ] Figma's design, I transformed the DoctorCare website from pixels to code, bringing its sleek and user-friendly vision to life. "
 
 
 ## Live Demo
@@ -12,7 +12,7 @@
 
 - NextJS.14
 - CSS (Tailwind CSS)
-- Javascript
+- Javascript (JSX)
 
 
 ## Authors
