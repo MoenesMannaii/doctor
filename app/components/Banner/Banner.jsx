@@ -15,10 +15,10 @@ export const Banner = () => {
             </div>
             <div className="lg:flex-grow order-2 sm:order-2 md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start items-center px-6">
               <p className="py-px mb-4 text-sm font-bold tracking-wider text-[#00856F] uppercase">
-                SOBRE NÓS
+                About us
               </p>
               <h1 className="DMsans sm:text-5xl tracking-wide text-4xl mb-4 font-semibold text-[#212529]">
-                Entenda quem somos e por que existimos
+                Understand who we are and why we exist
               </h1>
               <p className="mb-8 leading-relaxed text-lg">
                 Amet minim mollit non deserunt ullamco est sit aliqua dolor do

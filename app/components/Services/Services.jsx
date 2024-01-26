@@ -3,32 +3,32 @@ import * as images from "../../../assets/index";
 export const Services = () => {
   const servicesData = [
     {
-      title: "Problemas digestivos",
+      title: "Digestive Problems",
       description:
         "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim.",
     },
     {
-      title: "Saúde Hormonal",
+      title: "Hormonal Health",
       description:
         "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim.",
     },
     {
-      title: "Bem-estar mental",
+      title: "Mental Well-Being",
       description:
         "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim.",
     },
     {
-      title: "Saúde Hormonal",
+      title: "Pediatric Care",
       description:
         "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim.",
     },
     {
-      title: "Bem-estar mental",
+      title: "Autoimmune & Inflammation",
       description:
         "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim.",
     },
     {
-      title: "Saúde Hormonal",
+      title: "Heart Health",
       description:
         "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim.",
     },
@@ -39,10 +39,10 @@ export const Services = () => {
       <div class="container px-6 py-10 mx-auto">
         <div class="max-w-lg mx-auto text-center py-12">
           <p className="inline-block py-px mb-4 text-sm font-bold text-center tracking-wider text-[#00856F] uppercase rounded-full">
-            SERVIÇOS
+            Services
           </p>
           <h1 class="sm:text-3xl text-4xl font-semibold text-[#212529] lg:text-4xl">
-            Como podemos ajudá-lo a se sentir melhor?
+          How can we help you feel better?
           </h1>
         </div>
 

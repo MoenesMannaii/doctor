@@ -9,19 +9,19 @@ export const Contact = () => {
           <div class="container mx-auto flex py-24 md:flex-row flex-col items-center">
             <div class="lg:flex-grow md:w-1/2 flex flex-col text-left items-start">
               <h1 class="DMsans sm:text-5xl tracking-wide text-4xl mb-4 font-semibold text-[#212529]">
-                Entre em contato <br /> com a gente!
+                Get in touch <br /> with us
               </h1>
 
               <div className="flex items-center py-4 gap-2">
                 <img src={images.location.src} alt="" />
                 <p className="flex items-center font-medium">
-                  R. Amauri Souza, 346
+                  346 Amauri Souza Street
                 </p>
               </div>
               <div className="flex items-center py-4 gap-2">
                 <img src={images.mail.src} alt="" />
                 <p className="flex items-center font-medium">
-                  contato@doctorcare.com
+                  contact@doctorcare.com
                 </p>
               </div>
               <div className="py-4">
@@ -31,7 +31,7 @@ export const Contact = () => {
                 >
                   <FaWhatsapp className="text-2xl mx-3" />
                   <span className="relative uppercase">
-                    Agende sua consulta
+                    Schedule your appointment
                   </span>
                 </a>
               </div>

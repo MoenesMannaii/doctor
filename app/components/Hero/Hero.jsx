@@ -15,9 +15,9 @@ const StatisticBlock = ({ value, label }) => (
 
 export const Hero = () => {
   const stats = [
-    { value: "+3.500", label: "Pacientes atendidos" },
-    { value: "+15", label: "Especialistas disponíveis" },
-    { value: "+10", label: "Anos no mercado" },
+    { value: "+3.500", label: "Patients attended" },
+    { value: "+15", label: "Available experts" },
+    { value: "+10", label: "Years on the market" },
   ];
 
   return (
@@ -31,15 +31,14 @@ export const Hero = () => {
                   WELCOME TO DOCTORCARE 👋
                 </p>
                 <h1 className="text-[#212529] text-4xl lg:text-6xl font-bold mb-8">
-                  Assistência médica simplificada para todos
+                  Simplified medical care for all
                 </h1>
                 <p
                   tabIndex="0"
                   className="text-lg text-[#212529] font-regular mb-8"
                 >
-                  Os médicos da DoctorCare vão além dos sintomas para tratar a
-                  causa raiz de sua doença e proporcionar uma cura a longo
-                  prazo.
+                  Doctors at DoctorCare go beyond symptoms to treat the root
+                  cause of your disease and provide a long-term cure.
                 </p>
                 <div>
                   <a
@@ -48,7 +47,7 @@ export const Hero = () => {
                   >
                     <FaWhatsapp className="text-2xl mx-3" />
                     <span className="relative uppercase">
-                      Agende sua consulta
+                      Schedule your appointment
                     </span>
                   </a>
                 </div>

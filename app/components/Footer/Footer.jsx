@@ -12,7 +12,7 @@ export const Footer = () => {
             </a>
 
             <p className="text-[#FFFAF1] text-center sm:text-left py-8 text-normal font-normal">
-              ©2024 - DoctorCare. <br /> Todos os direitos reservados.
+              ©2024 - DoctorCare. <br /> All rights reserved.
             </p>
           </div>
 
