@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-- Click [here](https://doctormoe.vercel.app/) to view the live demo.
+- Click [here](https://doctorcare-plus.vercel.app/) to view the live demo.
 
 
 ## Built With
