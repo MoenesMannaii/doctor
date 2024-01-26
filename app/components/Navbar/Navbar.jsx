@@ -156,7 +156,7 @@ export const Navbar = () => {
                           href="#_"
                           class="relative inline-flex items-center px-4 py-2 overflow-hidden text-lg font-medium text-[#00856F] border border-[#00856F] rounded-full group hover:bg-[#00856F] hover:text-white transition ease-in duration-300"
                         >
-                          <span class="relative">Schedule appointment</span>
+                          <span class="relative text-base">Schedule appointment</span>
                         </a>
                       </li>
                     </ul>

@@ -46,7 +46,7 @@ export const Hero = () => {
                     className="relative inline-flex items-center px-4 py-2 overflow-hidden text-lg font-medium border border-[#00856F] text-white bg-[#00856F] rounded-full group hover:bg-transparent hover:text-[#00856F] transition ease-in duration-300"
                   >
                     <FaWhatsapp className="text-2xl mx-3" />
-                    <span className="relative uppercase">
+                    <span className="relative text-sm uppercase lg:text-base">
                       Schedule your appointment
                     </span>
                   </a>
