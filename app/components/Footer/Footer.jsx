@@ -43,17 +43,7 @@ export const Footer = () => {
           </div>
         </div>
       </div>
-      <span className="bg-[#dee9e2] text-black tracking-wide sm:text-xl flex mx-auto justify-center items-center py-4 ">
-        Built <FaCode className="w-10" /> with{" "}
-        <img src={images.TN.src} className="w-auto h-5 px-2" alt="TN Logo" />{" "}
-        by&nbsp;
-        <a
-          href="https://www.linkedin.com/in/moenes-mannai-1ab4a0297/"
-          className="font-medium"
-        >
-          Moenes Mannai{" "}
-        </a>
-      </span>
+  
     </footer>
   );
 };
